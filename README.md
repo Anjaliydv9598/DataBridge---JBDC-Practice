@@ -47,7 +47,7 @@ CREATE DATABASE employeejdbc;
 ```
 
 
-<img src= "Screenshot 2026-07-14 at 1.34.01 AM.png" width="700" alt="Project Output">
+<img src= "Screenshot 2026-07-14 at 1.34.01 AM.png" width="1500" alt="Project Output">
 
 Connect to the database:
 
@@ -64,6 +64,8 @@ CREATE TABLE employee (
     salary DOUBLE PRECISION
 );
 ```
+
+<img src= "Screenshot 2026-07-14 at 1.34.55 AM.png" width="900" alt="Project Output">
 
 ## Configure Database Connection
 
