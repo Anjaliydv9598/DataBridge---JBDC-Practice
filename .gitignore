@@ -1,0 +1,23 @@
+# Maven
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Compiled Java files
+*.class
