@@ -1,4 +1,4 @@
-# Employee Management System (JDBC)
+<img width="1280" height="61" alt="Screenshot 2026-07-14 at 1 34 01 AM" src="https://github.com/user-attachments/assets/b39b332c-a513-425c-8d9e-0acc38f31181" /># Employee Management System (JDBC)
 
 A simple Java console application that performs CRUD (Create, Read, Update, Delete) operations on an Employee database using JDBC and PostgreSQL.
 
@@ -45,6 +45,9 @@ Create the database:
 ```sql
 CREATE DATABASE employeejdbc;
 ```
+
+
+<img src= "Screenshot 2026-07-14 at 1.34.01 AM.png" width="700" alt="Project Output">
 
 Connect to the database:
 
